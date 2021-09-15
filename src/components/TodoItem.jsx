@@ -9,8 +9,11 @@ export function TodoItem({ todo, toggleTodo }) {
   
   return (
       <div>
-      <div className= "todo-row">{task} 
-      <input type="checkbox" checked={completed} onChange={handleTodoClick} /></div>
+      <div className="todo-row">{task} 
+      <label class="container"><input class="check-box" type="checkbox" checked={completed} onChange={handleTodoClick} />
+      <span class="checkmark"></span>
+      </label>
+      </div>
       </div>
   );
 }

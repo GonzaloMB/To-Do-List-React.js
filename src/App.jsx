@@ -10,7 +10,6 @@ export function App() {
   const [todos, setTodos] = useState([
     { id: 1, task: "Tarea 1", completed: false },
   ]);
-
   useEffect(() => {
     const storedTodos = JSON.parse(localStorage.getItem(KEY));
     if (storedTodos) {
