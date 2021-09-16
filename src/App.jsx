@@ -58,6 +58,7 @@ export function App() {
         <div class="todo-form">
           <div>
             <input
+              maxlength="47"
               class="todo-input"
               ref={todoTaskRef}
               type="text"
