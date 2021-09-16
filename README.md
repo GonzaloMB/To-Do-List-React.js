@@ -1,8 +1,37 @@
-# To-do List 📝
+<!-- Please update value in the {}  -->
 
-Practicing the basic operation of React.js creating an TodoApp from scratch
+<h1 align="center">To-Do List | React.js 📝</h1>
 
-## Practicing concepts🚀
+<div align="center">
+  App made to practice the basics acknowledgements of React.js from scratch.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://www.linkedin.com/in/gonzalo-meana-balseiro-90a523188/">
+      Contact Me
+    </a>
+  </h3>
+</div>
+
+## How To Use👨‍💻
+
+<!-- Example: -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/your-user-name/your-project-name
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Acknowledgements🚀
 - **JSX**
 - **Componentes**
 - **Props y Eventos**
@@ -12,7 +41,7 @@ Practicing the basic operation of React.js creating an TodoApp from scratch
   - useRef
 - **LocalStorage**
 
-## Construido con 🛠️
+## Built With 🛠️
 
 * React.js
 * HTML
