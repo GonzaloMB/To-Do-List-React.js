@@ -51,7 +51,7 @@ export function App() {
     <Fragment>
       <div class="todo-app">
         <div class="todo-counter">
-          <h1>What's the Plan for?</h1>
+          <h1>What's the Plan for today?</h1>
           You have {todos.filter((todo) => !todo.completed).length} tasks to
           finish
         </div>
