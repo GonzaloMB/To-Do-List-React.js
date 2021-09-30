@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">To-Do List | React.js 📝</h1>
+<h1 align="center">To-Do List | React.js 📝⚛️</h1>
 
 <div align="center">
   App made to practice the basics acknowledgements of React.js from scratch.
@@ -34,7 +34,7 @@ $ npm start
 ## Acknowledgements🚀
 - **JSX**
 - **Componentes**
-- **Props y Eventos**
+- **Props and Events**
 - **Hooks**
   - useState
   - useEffect
